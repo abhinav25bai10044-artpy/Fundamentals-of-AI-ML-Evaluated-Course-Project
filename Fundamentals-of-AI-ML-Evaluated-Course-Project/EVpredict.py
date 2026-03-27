@@ -14,7 +14,7 @@ import calendar as c
 # 2: READING THE DATASET (INPUT)
 #=======================================================
 
-filename="D:/AIML Project/makeup_sales_dataset_2025.csv"
+filename="makeup_sales_dataset_2025.csv"
 sales=pd.read_csv(filename)
 print(sales.info())
 print(sales.describe())
