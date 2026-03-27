@@ -6,10 +6,10 @@ EVpredict.py : Main program
 makeup_sales_dataset_2025.csv : Dataset for the program
 CPSP : Project
 
-Trends (According to the Model) 
+Trends (According to the Model):
 According to the Model, Eyeliner was the player in Cosmetic products. L’Oreal was the most popular brand throughout the world with its products. Germany was the largest consumer of cosmetic products during May with 465 units sold.
 
-Model Performance 
+Model Performance:
 With Coefficient of Determination(R²) at 0.8847230123258571, it performed the statistical prediction of the sales of Cosmetic Products. It had Mean Squared Error of 305266.42401565163 and Root Mean Squared Error of 552.5092071772665, making it an efficient model for predicting the sales.
 
 What I learnt from it? 
