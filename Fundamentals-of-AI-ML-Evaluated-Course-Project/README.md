@@ -1,6 +1,11 @@
 # Fundamentals-of-AI-ML-Evaluated-Course-Project
 This project focuses on analyzing and predicting cosmetic product sales using ML-Linear Regression technique. The dataset contains information such as brand name, product type, country, sales channel, product’s price, units sold, and revenue in United States Dollar.
 
+Components used:
+EVpredict.py : Main program
+makeup_sales_dataset_2025.csv : Dataset for the program
+CPSP : Project
+
 Trends (According to the Model) 
 According to the Model, Eyeliner was the player in Cosmetic products. L’Oreal was the most popular brand throughout the world with its products. Germany was the largest consumer of cosmetic products during May with 465 units sold.
 
